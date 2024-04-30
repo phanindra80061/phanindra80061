@@ -4,7 +4,6 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/phanindrareddykv) | 📞+1 5736473714 | ✉️ kvphanindrareddy@gmail.com
 
-
 Computer Science Master's candidate with a strong Practice in Java and Full Stack development.
 
 ## Skills
@@ -19,7 +18,7 @@ Computer Science Master's candidate with a strong Practice in Java and Full Stac
 
 ---
 
-## Education
+## Education 🎓
 
 - **Master of Science in Computer Science**  
   [Missouri University of Science and Technology](https://www.mst.edu/) | Aug 2022 - May 2024 | GPA: 3.6/4.0
@@ -40,13 +39,13 @@ Learning, Operating Systems, Computer Networks, Theory of Computation.
 
 ## Academic Project Experience
 
-### Rain Prediction
+### Rain Prediction ☔
 - Predictive modelling using Data Visualization Techniques
 - February 2022 - April 2022
 - Developed predictive model with Machine Learning to forecast Australian rainfall, using 10 years of daily weather data
 - Utilized Python and advanced data visualizations for accurate model and informed weather predictions
 
-### Qizzy – Full-stack Quiz Application
+### Qizzy – Full-stack Quiz Application 📝
 - August 2021 - November 2021
 - Role: Front-End Developer
 - Developed a full-stack mobile and web application for educational institutions to facilitate quiz administration for students
@@ -56,14 +55,14 @@ Learning, Operating Systems, Computer Networks, Theory of Computation.
 
 ## Professional Experience
 
-### International Student Assistant
-- International Enrollment Office at Missouri S&T
+### International Student Assistant 💼
+- International Enrollment Office at Missouri S&T 🌍
 - Orchestrated international enrollment processes, organizing student data and streamlining access within portals
 - Managed student check-in procedures and provided assistance to international students
 
 ---
 
-## Certifications & Awards
+## Certifications & Awards 🏆
 
 - Certified in Google’s Fundamentals Digital Marketing
 - Certified with Python Data Analysis & Visualization Bootcamp from Udemy
@@ -71,7 +70,7 @@ Learning, Operating Systems, Computer Networks, Theory of Computation.
 
 ---
 
-## Extracurricular Activities
+## Extracurricular Activities 🎉
 
 - Team member in Indian association at Missouri University of Science and Technology
 - Professional Dancer and Choreographer at Missouri S&T and Amrita Universities
