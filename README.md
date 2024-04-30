@@ -28,7 +28,7 @@ Computer Science Master's candidate with a strong Practice in Java and Full Stac
 to Machine Learning, Leadership of Technological Innovation, Project Management 
 
 - **Bachelor of Technology in Computer Science and Engineering**  
-  [Amrita University](https://www.amrita.edu/) | July 2018 - April 2022 | GPA: 3.6/4.0
+  [Amrita University](https://www.amrita.edu/) | July 2018 - April 2022
   
   
   *Course Work*:   Data Structures and Algorithms, OPPS, CloudComputing,Data Base Management Systems, Principles of Machine
