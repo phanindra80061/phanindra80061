@@ -4,7 +4,7 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/phanindrareddykv) | 📞+1 5736473714 | ✉️ kvphanindrareddy@gmail.com
 
-Computer Science Master's candidate with a strong Practice in Java Full Stack development and Android Development.
+Computer Science Master's candidate with a strong Practice in Java Full Stack development.
 
 ## Skills
 
@@ -22,7 +22,7 @@ Computer Science Master's candidate with a strong Practice in Java Full Stack de
 ## Education 🎓
 
 - **Master of Science in Computer Science**  
-  [Missouri University of Science and Technology](https://www.mst.edu/) | Aug 2022 - May 2024 | GPA: 3.6/4.0
+  [Missouri University of Science and Technology](https://www.mst.edu/) | Aug 2022 - May 2024
   
   
   *Course Work*:  Database Management Systems, Analysis of Algorithms, Advanced Virtual Reality, Security Operations, Introduction
@@ -63,6 +63,13 @@ Learning, Operating Systems, Computer Networks, Theory of Computation.
 
 ## Professional Experience
 
+### Millennium Software Technologies Pvt Ltd 💼
+- Developed high-performance RESTful APIs using Spring Boot, integrating ReactJS front-end components for real-time data synchronization.
+- Engineered efficient CRUD operations with JPA and Hibernate, optimizing data access layers and reducing query latency in MySQL.
+- Designed and implemented responsive UIs with HTML, CSS, and JavaScript, enhancing user experience through dynamic content rendering.
+- Fine-tuned complex database structures, including stored procedures, views, and indexes, significantly improving query speed.
+- Collaborated in Agile sprints, conducting unit testing with JUnit and ensuring high test coverage and reliability.
+- 
 ### International Student Assistant 💼
 - International Enrollment Office at Missouri S&T 🌍
 - Orchestrated international enrollment processes, organizing student data and streamlining access within portals
