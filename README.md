@@ -1,94 +1,77 @@
-### Hello techies 👋
+# 👋 Hey there, I’m Venkata Phanindra Reddy Koraprolu  
 
-# Venkata Phanindra Reddy Koraprolu
+### 🚀 Software Engineer | Backend & QA Automation | Java | Spring Boot | AWS | React  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/phanindrareddykv) | 📞+1 5736473714 | ✉️ kvphanindrareddy@gmail.com
-
-Computer Science Master's candidate with a strong Practice in Java Full Stack development.
-
-## Skills
-
-
-💻 Programming Languages: Java, Python, C#, HTML, CSS, JavaScript  
-🛠️ Frameworks: React.js, Bootstrap, Spring MVC, JPA, Hibernate, .NET  
-📱 Android Technologies: XML, Java, Android Studio, Android SDK  
-🗄️ Databases: MySQL, SQLite, MongoDB, AWS (EC2, Lambda, S3, RDS, VPC, IAM)  
-🛠️ Development Tools: IntelliJ, Eclipse, Visual Studio, VS Code, Git/GitHub, Houdini  
-☁️ Cloud Platforms: AWS (EC2, Lambda, S3, RDS, VPC, IAM)  
-
+Welcome to my world of code — where backend architecture meets real-world problem solving, and clean systems power meaningful user experiences.
 
 ---
 
-## Education 🎓
-
-- **Master of Science in Computer Science**  
-  [Missouri University of Science and Technology](https://www.mst.edu/) | Aug 2022 - May 2024
-  
-  
-  *Course Work*:  Database Management Systems, Analysis of Algorithms, Advanced Virtual Reality, Security Operations, Introduction
-to Machine Learning, Leadership of Technological Innovation, Project Management 
-
-- **Bachelor of Technology in Computer Science and Engineering**  
-  [Amrita University](https://www.amrita.edu/) | July 2018 - April 2022
-  
-  
-  *Course Work*:   Data Structures and Algorithms, OPPS, CloudComputing,Data Base Management Systems, Principles of Machine
-Learning, Operating Systems, Computer Networks, Theory of Computation.
-
+## 🧠 About Me  
+- 🎯 Passionate about **building scalable backend ecosystems** using **Java 17, Spring Boot, Microservices, and AWS**.  
+- 🧩 Experienced in **testing automation, CI/CD pipelines, containerization, and cloud deployments**.  
+- 💻 Enthusiastic about **end-to-end development** — from writing robust APIs to crafting responsive UIs.  
+- 🌍 Currently based in the **U.S. (STEM OPT valid till 2027)**, open to **remote, on-site, and global** opportunities.  
 
 ---
 
-## Academic Project Experience
+## 💼 Experience  
 
-### Rain Prediction ☔
-- Feb 2021 - Apr 2021
-- Predictive modelling using Data Visualization Techniques
-- Developed predictive model with Machine Learning to forecast Australian rainfall, using 10 years of daily weather data
-- Utilized Python and advanced data visualizations for accurate model and informed weather predictions
+### 🧩 **Software Engineer — Talented IT (2024 – Present)**
+Architected and developed distributed microservices using Java 17, Spring Boot, Spring Cloud, Eureka, Feign, API Gateway, and multi-database systems (MySQL, PostgreSQL, MongoDB) based on service-specific needs.
 
-### Qizzy – Full-stack Quiz Application 📝
-- August 2023-November 2023 
-- Role: Front-End Developer
-- Developed a full-stack mobile and web application for educational institutions to facilitate quiz administration for students
-- Led front-end development and implemented advanced design elements and animations
+Built asynchronous, event-driven workflows using RabbitMQ, enabled inter-service communication, and integrated Gemini API powered recommendation logic to deliver personalized user experiences.
 
-### UHealth – Android Healthcare Application 📱         
-- July 2024 
-- Developed an Android healthcare application featuring a secure login and registration system, implementing strong password security measures to enhance user data protection. 
-- Designed an intuitive home page with card views that allow users to book doctor appointments, chat with doctors, add medications to a cart, and view the total amount for online ordering.
-- Integrated Google Maps API to help users find nearby hospitals, enhancing the app's utility for healthcare access. 
-- Utilized XML layouts for UI design and RESTful APIs for appointment scheduling and chat functionality.
+Implemented enterprise-level security & authentication using OAuth 2.0, JWT, and Keycloak, establishing RBAC, secure token lifecycle management, and centralized authorization across all microservices.
+
+Developed responsive UI modules with React.js + Redux Toolkit, integrating REST APIs, while automating deployments through Jenkins CI/CD, Docker, and AWS ECS/ECR/EC2/RDS/S3 for scalable cloud delivery.
+
+Improved system performance through DB indexing, caching, async processing, and comprehensive testing (JUnit, Mockito, Postman/Newman), achieving significant latency reductions and high system reliability.
 
 ---
 
-## Professional Experience
+### ⚙️ **Associate Software Engineer — Millennium Software Solutions (2021 – 2022)**
+Developed modular Java 17 + Spring Boot microservices using MVC, DTOs, and layered architecture, delivering clean API structures and reusable components for multiple enterprise modules.
 
-### Millennium Software Technologies Pvt Ltd 💼
-- Developed high-performance RESTful APIs using Spring Boot, integrating ReactJS front-end components for real-time data synchronization.
-- Engineered efficient CRUD operations with JPA and Hibernate, optimizing data access layers and reducing query latency in MySQL.
-- Designed and implemented responsive UIs with HTML, CSS, and JavaScript, enhancing user experience through dynamic content rendering.
-- Fine-tuned complex database structures, including stored procedures, views, and indexes, significantly improving query speed.
-- Collaborated in Agile sprints, conducting unit testing with JUnit and ensuring high test coverage and reliability.
-- 
-### International Student Assistant 💼
-- International Enrollment Office at Missouri S&T 🌍
-- Orchestrated international enrollment processes, organizing student data and streamlining access within portals
-- Managed student check-in procedures and provided assistance to international students
+Engineered secure backend systems with Spring Security, JWT, and role-based authorization, implementing token generation, validation, refresh logic, and protected route policies across services.
+
+Designed relational databases in MySQL, optimized queries with indexing and caching, and improved API response times by 25% through schema redesign and performance tuning.
+
+Built dynamic UI screens using React.js (Hooks, Redux), Axios, and responsive layouts, ensuring seamless integration between frontend and backend services.
+
+Containerized applications using Docker, automated infrastructure with Terraform, and orchestrated cloud deployments using AWS ECS, RDS, and Jenkins CI/CD pipelines for continuous build-testing.
 
 ---
 
-## Certifications & Awards 🏆
+### 🖥️ **Web Developer — Missouri University of Science & Technology (2023 – 2024)**
+Revamped large-scale internal student portals by analyzing workflows, eliminating manual processes, and architecting digital replacements using React.js + REST APIs.
 
-- Certified in Google’s Fundamentals Digital Marketing
-- Certified with Python Data Analysis & Visualization Bootcamp from Udemy
-- Certified with Amazon Web Services (Practitioner and Solution Architect)
+Developed a full-stack document upload & status-tracking system, improving processing efficiency by 20% and significantly reducing data entry errors across departments.
+
+Implemented secure frontend components using React Hooks, state management, and form validation, ensuring smooth user interactions and optimized load performance.
+
+Collaborated with university leadership to define requirements, design wireframes, and implement user-centric interfaces, improving overall usability and accessibility.
+
+Conducted thorough testing across macOS/Windows platforms, ensuring cross-browser compatibility, stable API communication, and high reliability for student-facing systems.
+---
+
+## 🛠️ Tech Stack  
+
+**Languages:** Java, Python, JavaScript, TypeScript, HTML, CSS  
+**Backend:** Spring Boot, Spring MVC, REST APIs, JPA/Hibernate, JWT, Kafka, Redis, OAuth 2.0  
+**Frontend:** React.js, Angular, Bootstrap, AJAX  
+**DevOps / CI-CD:** Docker, Jenkins, Kubernetes, Terraform, GitHub Actions, Maven, Agile  
+**Cloud / DB:** AWS (ECR, ECS, EC2, RDS, S3, IAM), MySQL, PostgreSQL, MongoDB  
+**Testing & Tools:** Postman, Newman, JUnit, Mockito, Selenium, Swagger, TDD, JIRA  
 
 ---
 
-## Extracurricular Activities 🎉
+## 🤝 Let’s Connect
+📫 **Email:** [kvphanindrareddy@gmail.com](mailto:kvphanindrareddy@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/phanindrareddykv](https://linkedin.com/in/phanindrareddykv)  
+🌍 **Portfolio / Projects:** [github.com/PhanindraReddyKoraprolu](https://github.com/PhanindraReddyKoraprolu)
 
-- Team member in Indian association at Missouri University of Science and Technology
-- Professional Dancer and Choreographer at Missouri S&T and Amrita Universities
-- Worked as a Team Head for the Team E360 an innovative club of CSE Department in 2020
-- Worked as a student coordinator during National Level Techno-Cultural Fest “Anokha” organized by Amrita Vishwa Vidyapeetham in 2020-2021
+> *“Clean code isn’t just about syntax — it’s about clarity, scalability, and ownership.”*
 
+---
+
+⭐ If you find my projects interesting, consider **following** or **starring** — it motivates me to share more open-source work!
